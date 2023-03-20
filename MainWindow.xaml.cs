@@ -79,7 +79,7 @@ namespace LAB01ISHCHENKO
                 }
                 else if (age < 0)
                 {
-                    MessageBox.Show("Ти що з утроба пишеш?");
+                    MessageBox.Show("Та ти точно не такий молодий, давай пиши справжній");
                     return false;
                 }
                 else
